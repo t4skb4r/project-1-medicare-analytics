@@ -1,0 +1,14 @@
+# SQLite database files — too large for GitHub
+*.db
+*.db-shm
+*.db-wal
+
+# Raw data files — too large for GitHub
+*.csv
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Power BI temporary files
+*_temp.pbix
